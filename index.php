@@ -9,8 +9,10 @@
     <h1> Exercícios PHP</h1>
     <h2>Vanderlei de Oliveira Zerbinati Martins</h2>
     <ul>
-        <li><a href="exercicio1.php" target="_blank">Exercício 1</a></li>
-        <li><a href="exercicio2.php" target="_blank">Exercício 2</a></li>
+        <li><a href="PHP Repositório/exercicio1/index.php" target="_blank">Exercício 1</a></li>
+        <li><a href="PHP Repositório/exercicio2/index.php" target="_blank">Exercício 2</a></li>
     </ul>
 </body>
+</html>
+
 
