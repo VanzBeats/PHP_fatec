@@ -9,8 +9,8 @@
     <h1> Exercícios PHP</h1>
     <h2>Vanderlei de Oliveira Zerbinati Martins</h2>
     <ul>
-        <li><a href="exercicio1.php">1. Verificar Número</a></li>
-        <li><a href="exercicio2.php">2. Menor Valor e suas Posições</a></li>
+        <li><a href="exercicio1.php" target="_blank">Exercício 1</a></li>
+        <li><a href="exercicio2.php" target="_blank">Exercício 2</a></li>
     </ul>
 </body>
 
